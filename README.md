@@ -56,8 +56,8 @@ To create a blockchain-based return management system that:
 ---
 
 ## 👤 Author
-**Your Name / Your Team Name**  
-Feel free to modify and add your personal / project details.
+** Mohit Surewal 
+
 
 ---
 
